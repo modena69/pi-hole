@@ -111,7 +111,6 @@ adex.ednplus.com
 adpnut.com
 ad.smartmediarep.com
 mobon.net
-ad*.wisenut.co.kr
 acrosspf.com
 ad.esmplus.com
 adcheck.about.co.kr
@@ -128,7 +127,6 @@ googleadservices.com
 adapi.about.co.kr
 adx.turl.co.kr
 tpc.googlesyndication.com
-adservice.google.co.*
 ads-partners.coupang.com
 tvetamovie.pstatic.net
 searchad-phinf.pstatic.net
@@ -147,7 +145,6 @@ ad.daum.net
 adcr.naver.com
 adskeeper.com
 ads.stickyadstv.com
-ads-*.v.ssp.yahoo.com
 ads.betweendigital.com
 adnxs.com
 criteo.net
@@ -255,8 +252,6 @@ ad.kmib.co.kr
 ads.kmib.co.kr
 adimage.hankookilbo.com
 ad.hankookilbo.com
-adimg*.search.naver.net
-ad*.thisisgame.com
 adv.bandi.so
 ads.adoffice.11st.co.kr
 ad.feedbag.co.kr
